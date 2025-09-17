@@ -3,6 +3,8 @@
 Code for: Global error signal guides local optimization in mismatch calculation. John Meng and Xiao-Jing Wang. 
 BioRxiv link: doi: https://doi.org/10.1101/2025.07.07.663505
 
+The code is tested under Python 3.9 and Matlab R2024b.
+
 ## Figure 2:
 Main_ReluToy.py.  Running time: <10s
 
