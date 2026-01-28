@@ -2,7 +2,7 @@
 
 Code for: Global error signal guides local optimization in mismatch calculation. Nature Communications. 2026. 
 John Meng and Xiao-Jing Wang. 
-Accepted at the time this repository is archieved.
+This repository is archived at the time the paper is accepted. 
 BioRxiv link: doi: https://doi.org/10.1101/2025.07.07.663505. 
 The code is published under MIT license.
 
